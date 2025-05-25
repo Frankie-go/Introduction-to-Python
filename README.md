@@ -89,17 +89,3 @@ The **shortest travel time** and the **optimal path** between two cities.
 - 🎮 In-game AI movement logic
 - 🔍 Education & teaching shortest path algorithms
 
----
-
-## 👨‍💻 Author
-
-**TIANHAO CHEN**  
-University ID: `35621168`  
-Module: *Introduction to Python - Coursework 2*
-
----
-
-## 📎 License
-
-This project is for educational use only. For commercial use, please contact the author.
-
